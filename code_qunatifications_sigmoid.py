@@ -76,4 +76,4 @@ plt.xlim(0, 0.16)
 plt.ylim(0.6, 1.0)
 plt.show()
 
-#Parts of this code have been written by ChatGPT
+#Parts of this code have been written with the help of ChatGPT
